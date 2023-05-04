@@ -1,4 +1,4 @@
-# Questions - a small Symfony project
+# Getting Started with Symfony: A Simple Static Website
 
 The goal of this practice project is to demonstrate how to define routes and controller methods in Symfony, pass data to templates for rendering, and learn the basics of Twig templating language.
 
